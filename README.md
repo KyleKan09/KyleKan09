@@ -9,7 +9,7 @@ Hi, my name is **Kyle Kanaan**
 
 
 ## My Program Year and Major
-I'm a 5th-year <u> psychology major </u> at *Dalhousie University*
+I'm a **5th**-year **psychology** major at *Dalhousie University*
 
 
 ## Why I Enrolled in This Course
